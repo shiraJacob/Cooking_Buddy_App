@@ -1,0 +1,9 @@
+streamlit
+openai-whisper
+groq
+fpdf
+python-dotenv
+audio-recorder-streamlit
+Pillow
+requests
+replicate
